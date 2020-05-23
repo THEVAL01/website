@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+$myFont:centaur;
+$myColor:white;
+$myFontSize:50px;
+$mytext-align:left;
+
+body
+{
+	background-COLOR:#FFF;
+	background-attachment:fixed;
+}
+*
+{
+	text-align:center;
+}
+#logos
+{
+	font-family:$myFont;
+	font-size:50px;
+	text-align:left;
+	color:#FFF;
+}
+
+.text1
+{
+	font-family:Tahoma;
+	font-size :20px;
+	text-align:right;
+	color : #000;
+}
+
+	
+
+.text1 a{
+
+color:#FFF;
+padding:2%;
+text-decoration:none;
+}
+
+/*set the link when it is hover*/
+.text1 a:hover{
+background-color:#CC0099;
+color:#CCFF99;
+padding:2%;
+}
+
+#text2
+{
+	font-family:Tahoma;
+	font-size:14px;
+	text-align:left;
+}
+
+@font-face
+{
+	font-family: "vibes";
+	src:url(font/GreatVibes-Regular.ttf);
+}
+
+h1
+{
+	font-family: vibes;
+	font-size: 25px;
+	color:#000;
+	
+  background-color: #FFF;
+  width: auto;
+ 
+  text-align:justify;
+	
+}
+
+#gambar {
+width:100%;
+height:auto;
+}
+
+a {
+	color: #000066;
+}
+
+a:hover {
+	color: #ooooCC;
+}
+
+

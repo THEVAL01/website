@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color:#FFF;
+	background-attachment:fixed;
+}
+#footer
+{
+	text-align:center;
+}
+
+#logos
+{
+	font-family:centaur;
+	font-size:50px;
+	text-align:left;
+	color:#FFF;
+}
+	
+#text1
+{
+	font-family:TAHOMA; 
+	font-size:20px; 
+	text-align:right;
+	color:#000;
+	
+}
+
+
+#text1 a{
+
+color:#FFF;
+padding:2%;
+text-decoration:none;
+}
+
+/*set the link when it is hover*/
+#text1 a:hover{
+background-color:#CC0099;
+color:#CCFF99;
+padding:2%;
+}
+
+
+#text2
+{
+	font-family:Tahoma; 
+	font-size:20px; 
+	text-align:left;
+	color:#000;
+	
+  background-color: #FFF;
+  width: auto;
+ 
+  text-align:justify;
+	
+}
+
+/*set the link navigation */
+#text2 a{
+color:#FFF;
+padding:2%;
+text-decoration:none;
+}
+
+/*set the link when it is hover*/
+#text2 a:hover{
+background-color:#CC0099;
+color:#CCFF99;
+padding:2%;
+}
+
+
+ 
+h1 
+{
+  font-family: Tahoma;
+  font-size: 25px;
+  color:#000;
+}
+
+#gambar {
+width:100%;
+height:auto;
+}
+
+#logo 
+{
+	color:#FFF
+}
+
+#text3
+{
+	font-family:Tahoma; 
+	font-size:20px; 
+	text-align:center;
+	color:#000;
+}
+
